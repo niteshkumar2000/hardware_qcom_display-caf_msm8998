@@ -160,7 +160,6 @@ int Debug::GetDESharpness() {
   return value;
 }
 
->>>>>>> a4ce017c0fdbc1ecb8a94e7fb3fb46385b80beb8
 bool Debug::IsUbwcTiledFrameBuffer() {
   int ubwc_disabled = 0;
   int ubwc_framebuffer = 0;
